@@ -1,0 +1,53 @@
+commit b8aca98c0117f48e929c9c397d14cf25fb2d94e5 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:50:45 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0e6ae1279f8324b65f2c74c07337b3a031aa127e
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:47:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 46b94a5f5f14198a39a26e87b9e9f0d2226952a5 (origin/bug1, bug1)
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:49:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+:...skipping...
+commit b8aca98c0117f48e929c9c397d14cf25fb2d94e5 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:50:45 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0e6ae1279f8324b65f2c74c07337b3a031aa127e
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:47:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 46b94a5f5f14198a39a26e87b9e9f0d2226952a5 (origin/bug1, bug1)
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:49:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 15d78f004d93b1c7d72e40781e2f67cd2193c400
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:46:34 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit c2df909b8f7153b90bb1af63a591e9473b7ffe75
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:44:25 2024 +0200
+
+    Add starter code
+
+commit 7dd28bcbdb9426a1e19069d82a3530f05ea48cae
+Author: Dimitar Shuleski <dimitar.shuleski@outlook.com>
+Date:   Sat Apr 13 00:41:37 2024 +0200
+
+    Initial commit
